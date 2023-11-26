@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on improving my coding skills and soft skills.
-- 🌱 I’m currently learning cryptocurrency, Web development, and Flutter.
+- 🌱 I’m currently learning cryptocurrency, Web development, Android App development, and Machine Learning.
 - 👯 I’m looking to collaborate on C++ and Java projects.
 - 🤔 I’m looking for help with C++ and Java.
 - 💬 Ask me about MySQL and Freelancing.
